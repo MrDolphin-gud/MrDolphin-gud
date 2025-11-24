@@ -21,15 +21,10 @@ I enjoy building new tools, experimenting with technologies, and contributing to
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrDolphin-gud&show_icons=true&theme=dracula&hide_border=true" height="170" />
-  <img src="https://streak-stats.demolab.com/?user=MrDolphin-gud&theme=dracula&hide_border=true" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrDolphin-gud&layout=compact&theme=dracula&hide_border=true" height="150" />
-</p>
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MrDolphin-gud&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=MrDolphin-gud&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MrDolphin-gud&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
