@@ -66,7 +66,7 @@ I enjoy building new tools, experimenting with technologies, and contributing to
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrDolphin-gud&repo=MrDolphin-gud.github.io&theme=dracula&hide_border=true" />
 </a>
 <a href="https://github.com/MrDolphin-gud">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrDolphin-gud&repo=Hamming-SEC-DED-Kodlayici&theme=dracula&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrDolphin-gud&repo=Syntax-Highlighter&theme=dracula&hide_border=true" />
 </a>
 
 ---
