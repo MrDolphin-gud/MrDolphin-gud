@@ -40,7 +40,7 @@ I enjoy building new tools, experimenting with technologies, and contributing to
 
 ---
 
-## 🐍 Contribution Snake (Dark Mode)
+## 🐍 Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
