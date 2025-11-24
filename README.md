@@ -1,16 +1,83 @@
-## Hi there 👋
+<h1 align="center">👋 Hey! I'm Mr.Dolphin</h1>
 
-<!--
-**MrDolphin-gud/MrDolphin-gud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧑‍💻 About Me
+I'm currently studying and improving myself in various areas of software development.  
+I enjoy building new tools, experimenting with technologies, and contributing to open-source.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+### Languages & Frameworks  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-004488?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MrDolphin-gud&show_icons=true&theme=dracula&hide_border=true" height="170" />
+  <img src="https://streak-stats.demolab.com/?user=MrDolphin-gud&theme=dracula&hide_border=true" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrDolphin-gud&layout=compact&theme=dracula&hide_border=true" height="150" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MrDolphin-gud&theme=dracula&margin-w=12&no-frame=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake (Dark Mode)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 💬 Random Developer Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" />
+</p>
+
+---
+
+## ⭐ Top Contributed Repos
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=MrDolphin-gud&limit=6&theme=dracula&combine_all_yearly_contributions=true" />
+</p>
+
+---
+
+## 📂 Pinned Projects
+<a href="https://github.com/MrDolphin-gud">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrDolphin-gud&repo=MrDolphin-gud.github.io&theme=dracula&hide_border=true" />
+</a>
+<a href="https://github.com/MrDolphin-gud">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrDolphin-gud&repo=Hamming-SEC-DED-Kodlayici&theme=dracula&hide_border=true" />
+</a>
+
+---
+
+## 👀 Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MrDolphin-gud&color=blue&style=flat-square" />
+</p>
+
+---
+
+<p align="center">
+  <b>“Be happy for this moment. This moment is your life.” – Omar Khayyam</b>
+</p>
