@@ -57,10 +57,10 @@ I enjoy building new tools, experimenting with technologies, and contributing to
 ---
 
 ## 📂 Pinned Projects
-<a href="https://github.com/MrDolphin-gud">
+<a href="https://github.com/MrDolphin-gud/Kayip-Sinyal">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrDolphin-gud&repo=MrDolphin-gud.github.io&theme=dracula&hide_border=true" />
 </a>
-<a href="https://github.com/MrDolphin-gud">
+<a href="https://github.com/MrDolphin-gud/Syntax-Highlighter">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrDolphin-gud&repo=Syntax-Highlighter&theme=dracula&hide_border=true" />
 </a>
 
