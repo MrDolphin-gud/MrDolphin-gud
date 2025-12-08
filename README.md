@@ -56,16 +56,6 @@ I enjoy building new tools, experimenting with technologies, and contributing to
 
 ---
 
-## 📂 Pinned Projects
-<a href="https://github.com/MrDolphin-gud/Kayip-Sinyal">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrDolphin-gud&repo=Kayip-Sinyal&theme=dracula&hide_border=true" />
-</a>
-<a href="https://github.com/MrDolphin-gud/Syntax-Highlighter">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrDolphin-gud&repo=Syntax-Highlighter&theme=dracula&hide_border=true" />
-</a>
-
----
-
 ## 👀 Profile Views
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MrDolphin-gud&color=blue&style=flat-square" />
