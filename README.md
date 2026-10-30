@@ -47,12 +47,6 @@ I enjoy building new tools, experimenting with technologies, and contributing to
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" />
 </p>
 
----
-
-## ⭐ Top Contributed Repos
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=MrDolphin-gud&limit=6&theme=dracula&combine_all_yearly_contributions=true" />
-</p>
 
 ---
 
